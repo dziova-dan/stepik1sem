@@ -10,6 +10,7 @@ namespace stepik1sem
     {
         static void Main(string[] args)
         {
+            //изменения для задачи
         }
     }
 }
